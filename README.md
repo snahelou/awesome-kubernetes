@@ -799,6 +799,7 @@ Projects
 * [kompose](https://github.com/kubernetes/kompose)
 * [kubeval](https://github.com/garethr/kubeval)
 * [kubegen](https://github.com/errordeveloper/kubegen)
+* [kube-score](https://github.com/zegl/kube-score)
 
 ## Tuning
 
